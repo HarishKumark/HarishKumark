@@ -5,7 +5,7 @@
   
 </p><a href="[https://linkedin.com/in/abdoachhoubi](https://www.linkedin.com/in/korada-harish-kumar/)" target="_blank">
 
- <p><img height="400px" width="400px" align="right" src="https://github.com/HarishKumark/images/computer.gif" alt="adam-pw" /></p>
+ <p><img height="400px" width="400px" align="right" src="https://github.com/HarishKumark/HarishKumark/blob/main/images/computer.gif" alt="adam-pw" /></p>
 
 ## :sassy_man:  About me <img src = "https://github.com/HarishKumark/ReadmeGenerator/blob/main/Icons/giphy.webp" width = 150px> 
 - 🔭 I’m currently working on Java Full Stack Developer .
