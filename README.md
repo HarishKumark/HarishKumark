@@ -1,6 +1,9 @@
 <div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<a href="[https://linkedin.com/in/abdoachhoubi](https://www.linkedin.com/in/korada-harish-kumar/)" target="_blank">
+<h1 align="center">Hi , I'm Harish Kumar <img src="https://github.com/HarishKumark/ReadmeGenerator/blob/main/Icons/hii.gif" width="35"></h1>
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer;DSA+%7C+ALGORITHIMS+%7C+OOPS;(400%2B)+question+solve+in+leetcode;2+Star+in+codechef;Always+Learning+new+thing" alt="Typing SVG" /></a>
+  
+</p><a href="[https://linkedin.com/in/abdoachhoubi](https://www.linkedin.com/in/korada-harish-kumar/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/abdo_achhoubi" target="_blank">
