@@ -1,12 +1,15 @@
 <div align="center">
 <h1 align="center">Hi , I'm Harish Kumar <img src="https://github.com/HarishKumark/ReadmeGenerator/blob/main/Icons/hii.gif" width="35"></h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer;DSA+%7C+ALGORITHIMS+%7C+OOPS;(400%2B)+question+solve+in+leetcode;2+Star+in+codechef;Always+Learning+new+thing" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer;DSA+%7C+ALGORITHIMS+%7C+OOPS;(400%2B)+question+solve+in+leetcode;2+Star+in+codechef;Always+Learning+new+thing" alt="Typing SVG" />
+ </a>
 
- <p><img height="400px" width="400px" align="right" src="https://github.com/HarishKumark/HarishKumark/blob/main/images/leetcode.png" alt="adam-pw" /></p>
- <be>
+<div style="margin:10 20 10 20">
+  <p><img  align="right" src="https://github.com/HarishKumark/HarishKumark/blob/main/images/leetcode.png" alt="adam-pw" /></p>
+</div>
+ 
 
-<div>
+<div style="margin:10 20 10 20">
   <p><img height="400px" width="400px" align="right" src="https://github.com/HarishKumark/HarishKumark/blob/main/images/computer.gif" alt="adam-pw" /></p>
 
 ## :sassy_man:  About me <img src = "https://github.com/HarishKumark/ReadmeGenerator/blob/main/Icons/giphy.webp" width = 150px> 
@@ -14,7 +17,7 @@
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking for  job opportunities in Java Full Stack. 
 - 💬 Ask me about Full Stack Development and Android Development.
-<be>
+
 </div>
 
 
