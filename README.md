@@ -7,7 +7,7 @@
 
  <p><img height="400px" width="400px" align="right" src="https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/computer.gif" alt="adam-pw" /></p>
 
-## :sassy_man:  About me <img src = "https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/giphy.webp" width = 150px> 
+## :sassy_man:  About me <img src = "https://github.com/HarishKumark/ReadmeGenerator/blob/main/Icons/giphy.webp" width = 150px> 
 - 🔭 I’m currently working on Java Full Stack Developer .
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking for  job opportunities in Java Full Stack. 
