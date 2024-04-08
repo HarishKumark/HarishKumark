@@ -3,7 +3,9 @@
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer;DSA+%7C+ALGORITHIMS+%7C+OOPS;(400%2B)+question+solve+in+leetcode;2+Star+in+codechef;Always+Learning+new+thing" alt="Typing SVG" /></a>
   
+<!--
 </p><a href="[https://linkedin.com/in/abdoachhoubi](https://www.linkedin.com/in/korada-harish-kumar/)" target="_blank">
+-->
 
  <p><img height="400px" width="400px" align="right" src="https://github.com/HarishKumark/HarishKumark/blob/main/images/computer.gif" alt="adam-pw" /></p>
 
