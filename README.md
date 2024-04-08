@@ -23,15 +23,15 @@
 <a href="https://www.linkedin.com/in/korada-harish-kumar/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/abdo_achhoubi" target="_blank">
+<a href="https://twitter.com/khharish2" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <br />
 <br />
-<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Harish Kumar Korada">
 <br />
 <br />
-
+<br />
+<br />
 I'm a Full Stack Developer with 7+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
