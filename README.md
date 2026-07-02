@@ -1,135 +1,139 @@
 <div align="center">
 
-# Harish Kumar
+# Hi, I'm Harish Kumar 👋
 
-### Software Engineer · Java · Scala · Microservices · Cloud Delivery
+### Software Engineer | Java • Scala • Microservices • Cloud Delivery
 
-<p>
-  <a href="https://www.linkedin.com/in/korada-harish-kumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/HarishKumark">
-    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=181717&labelColor=FFFFFF" alt="GitHub" />
-  </a>
-  <a href="https://harish-korada.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=flat-square&logo=vercel&logoColor=000000&labelColor=FFFFFF" alt="Portfolio" />
-  </a>
-  <a href="mailto:khharish2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=FFFFFF" alt="Email" />
-  </a>
-</p>
+📍 Edinburgh, United Kingdom
 
-<p>
-  <a href="https://harish-korada.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-harish--korada.vercel.app-FFFFFF?style=flat-square&logo=vercel&logoColor=000000&labelColor=FFFFFF" alt="Portfolio website" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/korada-harish-kumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-HarishKumark-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/HarishKumark)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-4F46E5?style=for-the-badge\&logo=vercel\&logoColor=white)](https://harish-korada.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:khharish2@gmail.com)
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+Scala+%7C+Spring+Boot+%7C+Microservices;Building+reliable+backend+services;Learning+Kafka%2C+System+Design+%26+Machine+Learning;Always+learning+and+improving" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-Software Engineer with **10+ years of experience in technology and software delivery**, building and supporting enterprise applications across public-sector, research, and telecommunications environments.
+I am a Software Engineer with **10+ years of experience in technology and software delivery**, building and supporting enterprise applications across public-sector, research, and telecommunications environments.
 
-I work mainly with backend systems, microservices, APIs, testing, CI/CD, monitoring, and production support.
+My core focus is developing reliable backend services with **Java, Scala, Spring Boot, Play Framework, REST APIs, microservices, SQL/NoSQL databases, CI/CD, and production observability**.
 
-* Based in **Edinburgh, United Kingdom**
-* Experienced in **Java 8 / 11 / 17**, Scala, Spring Boot, Play Framework, REST APIs, SQL and NoSQL databases
-* Interested in reliable systems, clean code, system design, and platform modernisation
-* Currently learning **Apache Kafka**, event-driven architecture, Machine Learning, and advanced Data Structures & Algorithms
-* Open to Software Engineer, Java Backend Engineer, Java Full Stack Engineer, and Scala Engineer opportunities
+* 🔭 Working on backend engineering, microservices, cloud delivery, and production support
+* ☕ Experienced with **Java 8, Java 11, Java 17**, Scala, Spring Boot, and Play Framework
+* 🌱 Currently learning **Apache Kafka**, event-driven architecture, system design, and Machine Learning
+* 🧠 Practising Data Structures and Algorithms for stronger problem-solving skills
+* ⚙️ Interested in maintainable services, testing, platform modernisation, and operational reliability
+* 💼 Open to Software Engineer, Java Backend Engineer, Java Full Stack Engineer, and Scala Engineer opportunities in the UK
+* 🌐 Portfolio: [harish-korada.vercel.app](https://harish-korada.vercel.app/)
 
 ---
 
-## Core Skills
+## Core Technology Stack
 
-### Backend Engineering
+### Backend & Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Java%208%20%7C%2011%20%7C%2017-FFFFFF?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=FFFFFF" alt="Java" />
-  <img src="https://img.shields.io/badge/Scala-FFFFFF?style=flat-square&logo=scala&logoColor=DC322F&labelColor=FFFFFF" alt="Scala" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-FFFFFF?style=flat-square&logo=springboot&logoColor=6DB33F&labelColor=FFFFFF" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring%20Framework-FFFFFF?style=flat-square&logo=spring&logoColor=6DB33F&labelColor=FFFFFF" alt="Spring Framework" />
-  <img src="https://img.shields.io/badge/Play%20Framework-FFFFFF?style=flat-square&logo=scala&logoColor=92D13D&labelColor=FFFFFF" alt="Play Framework" />
-  <img src="https://img.shields.io/badge/Hibernate%20%2F%20JPA-FFFFFF?style=flat-square&logo=hibernate&logoColor=59666C&labelColor=FFFFFF" alt="Hibernate and JPA" />
-  <img src="https://img.shields.io/badge/REST%20APIs-FFFFFF?style=flat-square&logo=fastapi&logoColor=009688&labelColor=FFFFFF" alt="REST APIs" />
-</p>
+![Java](https://img.shields.io/badge/Java%208%20%7C%2011%20%7C%2017-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge\&logo=scala\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Play Framework](https://img.shields.io/badge/Play%20Framework-92D13D?style=for-the-badge\&logo=scala\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Data & Integration
+### Data, Messaging & Integration
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=FFFFFF" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=FFFFFF" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Oracle-FFFFFF?style=flat-square&logo=oracle&logoColor=F80000&labelColor=FFFFFF" alt="Oracle" />
-  <img src="https://img.shields.io/badge/SQL-FFFFFF?style=flat-square&logo=databricks&logoColor=003B57&labelColor=FFFFFF" alt="SQL" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka%20%28Learning%29-FFFFFF?style=flat-square&logo=apachekafka&logoColor=231F20&labelColor=FFFFFF" alt="Apache Kafka learning" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=databricks\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-Learning-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
 
-### Quality, Delivery & Operations
+### Testing, CI/CD & Engineering Quality
 
-<p>
-  <img src="https://img.shields.io/badge/JUnit%205-FFFFFF?style=flat-square&logo=junit5&logoColor=25A162&labelColor=FFFFFF" alt="JUnit" />
-  <img src="https://img.shields.io/badge/Mockito-FFFFFF?style=flat-square&logo=java&logoColor=78A641&labelColor=FFFFFF" alt="Mockito" />
-  <img src="https://img.shields.io/badge/ScalaTest-FFFFFF?style=flat-square&logo=scala&logoColor=DC322F&labelColor=FFFFFF" alt="ScalaTest" />
-  <img src="https://img.shields.io/badge/Cucumber-FFFFFF?style=flat-square&logo=cucumber&logoColor=23D96C&labelColor=FFFFFF" alt="Cucumber" />
-  <img src="https://img.shields.io/badge/Selenium-FFFFFF?style=flat-square&logo=selenium&logoColor=43B02A&labelColor=FFFFFF" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Testcontainers-FFFFFF?style=flat-square&logo=docker&logoColor=2496ED&labelColor=FFFFFF" alt="Testcontainers" />
-  <img src="https://img.shields.io/badge/Jenkins-FFFFFF?style=flat-square&logo=jenkins&logoColor=D24939&labelColor=FFFFFF" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=2496ED&labelColor=FFFFFF" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-FFFFFF?style=flat-square&logo=amazonaws&logoColor=FF9900&labelColor=FFFFFF" alt="AWS" />
-</p>
+![JUnit](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge\&logo=junit5\&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge\&logo=java\&logoColor=white)
+![ScalaTest](https://img.shields.io/badge/ScalaTest-DC322F?style=for-the-badge\&logo=scala\&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge\&logo=cucumber\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-### Observability & Collaboration
+### Cloud, Observability & Delivery
 
-<p>
-  <img src="https://img.shields.io/badge/Kibana-FFFFFF?style=flat-square&logo=kibana&logoColor=005571&labelColor=FFFFFF" alt="Kibana" />
-  <img src="https://img.shields.io/badge/Grafana-FFFFFF?style=flat-square&logo=grafana&logoColor=F46800&labelColor=FFFFFF" alt="Grafana" />
-  <img src="https://img.shields.io/badge/PagerDuty-FFFFFF?style=flat-square&logo=pagerduty&logoColor=06AC38&labelColor=FFFFFF" alt="PagerDuty" />
-  <img src="https://img.shields.io/badge/Jira-FFFFFF?style=flat-square&logo=jira&logoColor=0052CC&labelColor=FFFFFF" alt="Jira" />
-  <img src="https://img.shields.io/badge/Confluence-FFFFFF?style=flat-square&logo=confluence&logoColor=172B4D&labelColor=FFFFFF" alt="Confluence" />
-  <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=linux&logoColor=000000&labelColor=FFFFFF" alt="Linux" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Working%20Knowledge-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge\&logo=kibana\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge\&logo=pagerduty\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge\&logo=confluence\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 
 ## Current Focus
 
-| Area            | Learning Focus                                             |
-| --------------- | ---------------------------------------------------------- |
-| Backend         | Java 17, Spring Boot, REST API design, microservices       |
-| Scala           | Scala 3, Play Framework, testing and service maintenance   |
-| Messaging       | Apache Kafka, producers, consumers, event-driven design    |
-| Problem Solving | Data Structures, Algorithms, LeetCode patterns             |
-| Architecture    | System design and distributed systems fundamentals         |
-| AI              | Machine Learning fundamentals and AWS ML Engineer learning |
+```text
+• Java 8 / 11 / 17 and modern Java backend development
+• Scala and Play Framework microservices
+• Spring Boot, REST API design, and service-to-service integrations
+• Apache Kafka and event-driven architecture
+• Data Structures and Algorithms
+• System Design and distributed systems fundamentals
+• Machine Learning and AWS Machine Learning Engineer learning
+• Cloud, CI/CD, observability, and reliable production operations
+```
+
+---
+
+## What I Enjoy Working On
+
+* Designing and building maintainable Java and Scala microservices
+* Developing REST APIs and reliable backend integrations
+* Improving test automation, code quality, and deployment confidence
+* Investigating production issues through logs, dashboards, and monitoring tools
+* Modernising dependencies, frameworks, and legacy applications
+* Participating in code reviews, technical documentation, and knowledge sharing
+* Learning Kafka, cloud engineering, Machine Learning, and distributed systems
 
 ---
 
 ## Featured Projects
 
-| Project                                                   | Description                                                               | Technologies                                  |
-| --------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------- |
-| [Microservices Demo](https://github.com/HarishKumark)     | Multi-module backend project with Product, Order, and Inventory services. | Java, Spring Boot, MySQL, MongoDB             |
-| [Product Service](https://github.com/HarishKumark)        | REST API with MongoDB and integration testing using Testcontainers.       | Java 17, Spring Boot, MongoDB, Testcontainers |
-| [Kafka Learning Project](https://github.com/HarishKumark) | Producer and consumer exercises while learning event-driven architecture. | Java, Spring Kafka, Apache Kafka              |
-| [Monitoring Tool](https://github.com/HarishKumark)        | Automation-focused project for operational and monitoring workflows.      | Java, Automation, Monitoring                  |
+| Project                    | Description                                                                         | Main Technologies                             |
+| -------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------- |
+| **Microservices Demo**     | Multi-module backend project containing product, order, and inventory services.     | Java, Spring Boot, MySQL, MongoDB             |
+| **Product Service**        | Spring Boot product API with MongoDB and Testcontainers integration tests.          | Java 17, Spring Boot, MongoDB, Testcontainers |
+| **Kafka Learning Project** | Practical producer and consumer exercises while learning event-driven architecture. | Java, Spring Kafka, Apache Kafka              |
+| **Monitoring Tool**        | Automation-focused project supporting monitoring and operational workflows.         | Java, Automation, Monitoring                  |
 
 ---
 
-## Certification
+## Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FFFFFF?style=flat-square&logo=amazonaws&logoColor=FF9900&labelColor=FFFFFF" alt="AWS Certified Cloud Practitioner" />
-</p>
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 ---
 
 <div align="center">
 
-### Let’s Connect
+## Let's Connect
 
-[Portfolio](https://harish-korada.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/korada-harish-kumar/) · [GitHub](https://github.com/HarishKumark) · [Email](mailto:khharish2@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/korada-harish-kumar/) · [Portfolio](https://harish-korada.vercel.app/) · [GitHub](https://github.com/HarishKumark) · [Email Me](mailto:khharish2@gmail.com)
+
+Thanks for visiting my profile.
+
+**Happy Coding!** 🚀
 
 </div>
